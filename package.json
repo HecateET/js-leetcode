@@ -1,0 +1,22 @@
+{
+  "name": "js-leetcode",
+  "version": "1.0.0",
+  "description": "my leetcode solution with javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HecateET/js-leetcode.git"
+  },
+  "keywords": [
+    "leetcode"
+  ],
+  "author": "hecateET",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HecateET/js-leetcode/issues"
+  },
+  "homepage": "https://github.com/HecateET/js-leetcode#readme"
+}
